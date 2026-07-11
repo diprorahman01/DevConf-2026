@@ -337,3 +337,32 @@ ul li a{
 .pricing-common-btn{
     border: none;
 }
+
+/* footer */
+.footer-parent-root{
+    background-color: #0D1B2A;
+    margin-top: 110px;
+}
+
+.footer-parent{
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-parent p{
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+.footer-links{
+    display: flex;
+    gap: 28px;
+}
+
+.footer-links a{
+    color: #FFFFFF;
+    font-size: 15px;
+    text-decoration: none;
+}
